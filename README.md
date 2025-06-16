@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-saikat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/) 
 
 
-I’m **Saikat (shroy-koth)** 🌟 — currently a 3rd-year CS undergrad, planting seeds of logic and harvesting wild ideas from my code jungle. From Data Science to Flask apps, from compiler dreams to full-stack schemes, I’m on a wild ride toward placement & beyond.
+I’m **Saikat** 🌟 — currently a 3rd-year CS undergrad, planting seeds of logic and harvesting wild ideas from my code jungle. From Data Science to Flask apps, from compiler dreams to full-stack schemes, I’m on a wild ride toward placement & beyond.
 
 
 
